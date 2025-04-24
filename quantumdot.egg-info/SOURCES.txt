@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+quantumdot/__init__.py
+quantumdot.egg-info/PKG-INFO
+quantumdot.egg-info/SOURCES.txt
+quantumdot.egg-info/dependency_links.txt
+quantumdot.egg-info/requires.txt
+quantumdot.egg-info/top_level.txt
+quantumdot/core/__init__.py
+quantumdot/core/model.py
+quantumdot/visualization/__init__.py

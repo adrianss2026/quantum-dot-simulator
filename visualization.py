@@ -1,5 +1,3 @@
-import matplotlib
-matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
@@ -15,6 +13,10 @@ m_e = 9.10938356e-31  # Electron mass (kg)
 eV = 1.602176634e-19  # Electron volt (J)
 e = 1.602176634e-19   # Elementary charge (C)
 epsilon_0 = 8.8541878128e-12  # Vacuum permittivity (F/m)
+
+# Copyright (c) 2024 Adrian S
+# This file is part of the Quantum Dot Modeling Project and is licensed under the MIT License.
+# See LICENSE file for details.
 
 def create_custom_colormap():
     """Create a custom colormap for quantum mechanical visualizations"""

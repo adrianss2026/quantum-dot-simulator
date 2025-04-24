@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: quantumdot
+Version: 0.1.0
+Summary: A quantum dot simulator package
+Author: Adrian S
+Requires-Python: >=3.9
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: scipy>=1.7.0
+Requires-Dist: matplotlib>=3.4.0
+Requires-Dist: numba>=0.54.0
+Requires-Dist: tqdm>=4.62.0
