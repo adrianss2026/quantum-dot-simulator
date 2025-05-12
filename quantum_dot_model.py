@@ -8,7 +8,7 @@ from visualization import (plot_wavefunction, plot_probability_density, plot_2d_
                          plot_animated_2d_evolution, hbar, m_e, eV, e, epsilon_0)
 from typing import Tuple, List, Callable, Union
 
-# Copyright (c) 2024 Adrian S
+# Copyright (c) 2025 Adrian S
 # This file is part of the Quantum Dot Modeling Project and is licensed under the MIT License.
 # See LICENSE file for details.
 
